@@ -1,1 +1,1 @@
-This repository contains the various class projects completed during in my Master's in Biomedical Informatics graduate program.
+This repository contains the various class projects completed during my Master's in Biomedical Informatics graduate program (graduated in December 2022). My analytical and technical knowledge has developed over the course the program, so keep in mind the date when the project was completed.
